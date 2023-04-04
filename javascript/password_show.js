@@ -1,0 +1,1 @@
+const password_field = document.querySelector(".form .field input[type='password']")
